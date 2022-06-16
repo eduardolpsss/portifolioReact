@@ -1,3 +1,4 @@
+// Feito por Eduardo Pontes
 import {
   createGlobalStyle
 } from "styled-components";

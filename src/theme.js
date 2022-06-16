@@ -1,3 +1,4 @@
+// Feito por Eduardo Pontes
 export const lightTheme = {
   body: "#FCFCFC",
   h1: "#3664ff",

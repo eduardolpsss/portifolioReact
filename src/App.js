@@ -1,3 +1,4 @@
+// Feito por Eduardo Pontes
 import React, { Fragment, useState, useEffect } from "react";
 import { ThemeProvider } from "styled-components";
 import { lightTheme, darkTheme } from "./theme";
