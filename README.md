@@ -1,3 +1,7 @@
+https://eduardopontes.netlify.app/
+
+This project was bootstrapped with Create React App.
+
 Personal portfolios made with React.js to help document education, work samples and skills.
 
-Clone o repositório e rode o Yarn para instalar as dependências necessárias.
+Clone the repository and run Yarn to install the necessary dependencies.
